@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的卡券",
+  "usingComponents": {
+    "van-search": "/static/vant/search/index",
+    "van-tab": "/static/vant/tab/index",
+    "van-tabs": "/static/vant/tabs/index",
+    "van-divider": "/static/vant/divider/index",
+    "van-loading": "/static/vant/loading/index"
+  }
+}

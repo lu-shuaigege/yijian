@@ -1,0 +1,88 @@
+{
+  "pages": [
+    "pages/loading/main",
+    "pages/homePage/main",
+    "pages/activity/main",
+    "pages/activitydetail/main",
+    "pages/activitylist/main",
+    "pages/activitysuccess/main",
+    "pages/activityfail/main",
+    "pages/activityPay/main",
+    "pages/activitynonresponse/main",
+    "pages/appraisalPage/couponPage/main",
+    "pages/counter/main",
+    "pages/center/main",
+    "pages/course/coursesignupPage/main",
+    "pages/course/couponPage/main",
+    "pages/course/coursePage/main",
+    "pages/course/coursedetailPage/main",
+    "pages/dailyReference/main",
+    "pages/dailyReferenceDetail/main",
+    "pages/disclaimer/main",
+    "pages/detail/main",
+    "pages/detailNopay/main",
+    "pages/invitePage/main",
+    "pages/index/main",
+    "pages/home/main",
+    "pages/nonrespons/main",
+    "pages/phone/main",
+    "pages/pay/main",
+    "pages/paysuccess/main",
+    "pages/payfail/main",
+    "pages/result/main",
+    "pages/share/main",
+    "pages/signupdetail/main",
+    "pages/waitJoin/main"
+  ],
+  "subpackages": [
+    {
+      "root": "pages/fair",
+      "name":"fair",
+      "pages": [
+        "pages/searchPage/main",
+        "pages/dianpuDetailPage/main",
+        "pages/marketDetailsPage/main",
+        "pages/marketPage/main"
+      ]
+    },
+    {
+      "root": "pages/myCenter",
+      "name":"mycenter",
+      "pages": [
+        "pages/myEyesPage/main",
+        "pages/shenhePage/main",
+        "pages/myDianPuPage/main",
+        "pages/complaintPage/main",
+        "pages/followPage/main",
+        "pages/messageInfoPage/main",
+        "pages/detailsBadyPage/main",
+        "pages/lowerBadyPage/main",
+        "pages/noinAuditBadyPage/main",
+        "pages/inAuditBadyPage/main",
+        "pages/releasedBadyPage/main",
+        "pages/onlineBadyPage/main",
+        "pages/myShop/main",
+        "pages/cardPage/main",
+        "pages/openVipPage/main",
+        "pages/openShopPage/main",
+        "pages/examinePage/main",
+        "pages/uploaddoodsPage/main",
+        "pages/setShopPage/main",
+        "pages/openeyesDetailPage/main",
+        "pages/auction/main"
+      ]
+    }
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "一鉴 Club",
+    "navigationBarTextStyle": "black"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  }
+}
+

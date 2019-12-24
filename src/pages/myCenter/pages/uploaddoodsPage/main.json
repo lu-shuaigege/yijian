@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "van-field": "/static/vant/field/index",
+    "van-dialog": "/static/vant/dialog/index",
+    "van-action-sheet": "/static/vant/action-sheet/index",
+    "van-picker": "/static/vant/picker/index",
+    "van-popup": "/static/vant/popup/index"
+  }
+}

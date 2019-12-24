@@ -1,0 +1,203 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": false,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"miniprogramRoot": "dist/wx/",
+	"compileType": "miniprogram",
+	"appid": "wx7d3f418198d60dd7",
+	"projectname": "appraisal-frontend",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"libVersion": "2.9.1",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 20,
+			"list": [
+				{
+					"id": 1,
+					"name": "success",
+					"pathName": "pages/signupdetail/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/center/main",
+					"pathName": "pages/center/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/marketPage/main",
+					"pathName": "pages/marketPage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 4,
+					"name": "pages/fair/marketPage/main",
+					"pathName": "pages/fair/marketPage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 4,
+					"name": "pages/fair/pages/marketDetailsPage/main",
+					"pathName": "pages/fair/pages/marketDetailsPage/main",
+					"query": "id=5",
+					"scene": null
+				},
+				{
+					"id": 6,
+					"name": "首页",
+					"pathName": "pages/homePage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 6,
+					"name": "宝贝详情-5",
+					"pathName": "pages/fair/pages/marketDetailsPage/main",
+					"query": "id=109231107",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "店铺-详情",
+					"pathName": "pages/fair/dianpuDetailPage/main",
+					"query": "id=1",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "个人中心-消息通知",
+					"pathName": "pages/myCenter/messageInfoPage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "店铺-列表",
+					"pathName": "pages/fair/marketPage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 12,
+					"name": "会员权益",
+					"pathName": "pages/myCenter/openVipPage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的店铺",
+					"pathName": "pages/myCenter/myShop/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/invitePage/main",
+					"pathName": "pages/invitePage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/myCenter/pages/followPage/main",
+					"pathName": "pages/myCenter/pages/followPage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/myCenter/pages/myShop/main",
+					"pathName": "pages/myCenter/pages/myShop/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的-投诉建议",
+					"pathName": "pages/myCenter/pages/complaintPage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "会员权益",
+					"pathName": "pages/myCenter/pages/openVipPage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/myCenter/pages/examinePage/main",
+					"pathName": "pages/myCenter/pages/examinePage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 18,
+					"name": "pages/center/main",
+					"pathName": "pages/center/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/disclaimer/main",
+					"pathName": "pages/disclaimer/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/activitylist/main",
+					"pathName": "pages/activitylist/main",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}

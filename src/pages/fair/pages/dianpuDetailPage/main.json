@@ -1,0 +1,7 @@
+{
+    "usingComponents": {
+      "van-toast": "/static/vant/toast/index",
+      "van-divider": "/static/vant/divider/index",
+      "van-loading": "/static/vant/loading/index"
+    }
+}

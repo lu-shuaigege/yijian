@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的开眼",
+  "usingComponents": {
+    "van-search": "/static/vant/search/index",
+    "van-divider": "/static/vant/divider/index"
+  }
+}

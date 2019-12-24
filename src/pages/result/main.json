@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的鉴定",
+  "usingComponents": {
+      "van-search": "/static/vant/search/index",
+      "van-tab": "/static/vant/tab/index",
+      "van-tabs": "/static/vant/tabs/index",
+      "van-loading": "/static/vant/loading/index"
+  }
+}

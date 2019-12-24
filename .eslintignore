@@ -1,0 +1,7 @@
+build/*.js
+config/*.js
+src/components/backhome/backhome.vue
+src/pages/disclaimer/index.vue
+src/pages/fair/pages/marketDetailsPage/index.vue
+src/pages/myCenter/pages/openVipPage/index.vue
+src/pages/myCenter/pages/auction/index.vue
